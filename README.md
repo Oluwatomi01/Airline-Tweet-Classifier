@@ -1,7 +1,3 @@
-Here’s a clean, professional, and recruiter-friendly `README.md` you can use on GitHub for **Project 3 – Sentiment Analysis of Airline Tweets**. It follows the same format as your earlier projects and showcases your skills clearly:
-
----
-
 # Project 3: Airline Tweet Classifier
 
 This is the third project in my 2-week data challenge focused on building and sharing end-to-end data projects.
@@ -76,3 +72,4 @@ The pipeline focuses on:
 * 📄 [Dataset on Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 * 🖼 Visuals included in the `notebooks/` folder
 * 🧠 NLP model built using: `TfidfVectorizer + MultinomialNB`
+
