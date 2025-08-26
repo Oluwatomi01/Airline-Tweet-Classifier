@@ -2,7 +2,7 @@ Here’s a clean, professional, and recruiter-friendly `README.md` you can use o
 
 ---
 
-# 🧠 Project 3: Airline Tweet Classifier
+# Project 3: Airline Tweet Classifier
 
 This is the third project in my 2-week data challenge focused on building and sharing end-to-end data projects.
 Here, I used **Natural Language Processing (NLP)** techniques to classify tweets directed at major U.S. airlines as **positive, neutral, or negative**.
@@ -31,7 +31,7 @@ The pipeline focuses on:
 * NLTK
 * WordCloud
 
-## 🧪 Steps Taken
+## Steps Taken
 
 1. **Exploratory Data Analysis**
 
@@ -76,13 +76,3 @@ The pipeline focuses on:
 * 📄 [Dataset on Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 * 🖼 Visuals included in the `notebooks/` folder
 * 🧠 NLP model built using: `TfidfVectorizer + MultinomialNB`
-
----
-
-Let me know if you’d like:
-
-* The actual `folder + file` structure for your repo
-* A `requirements.txt`
-* A `notebook` export as `.py` or `.ipynb` for upload
-
-Just say the word and I’ll prep it all for you.
